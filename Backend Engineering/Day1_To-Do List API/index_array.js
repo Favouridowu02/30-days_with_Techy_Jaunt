@@ -52,4 +52,5 @@ app.delete("/todos/:id", (req, res) => {
     if (index < 0) return res.status(404).json({"error": "Todo not found"});
     const deleted = todos.splice(index, 1);
     res.status(200).json(deleted);
+    currentId--;
 })
