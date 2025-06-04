@@ -24,8 +24,8 @@ Welcome to my **30 Days Backend Challenge**, where I build 30 mini backend proje
 | No. | Project | Description |
 |-----|---------|-------------|
 | 01 | [**To-Do List API**](./Day1_To-Do%20List%20API) | Basic CRUD for task management. |
-| 02 | **Notes App API** | Create and manage notes with tags. |
-| 03 | **Blog API** | Manage posts, comments, and users. |
+| 02 | [**Notes App API**](./Day2_Notes%20App%20API/) | Create and manage notes with tags. |
+| 03 | [**Blog API**](./Day3_Blog%20API/) | Manage posts, comments, and users. |
 | 04 | **Book Library API** | Store books, authors, and genres. |
 | 05 | **Movie DB API** | Add movies, rate them, and filter. |
 | 06 | **Quotes API** | Get random quotes by author or theme. |
