@@ -34,7 +34,6 @@ Each week features a new theme, with projects that merge two or more focus areas
 | Area | Tools |
 |------|-------|
 | Backend | Python, Flask, SQLAlchemy, SQLite/PostgreSQL, JWT |
-| Cybersecurity | Nmap, Wireshark, Burp Suite, Python Security Libraries |
 
 ---
 

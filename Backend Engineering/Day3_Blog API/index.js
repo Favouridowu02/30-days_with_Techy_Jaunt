@@ -23,6 +23,6 @@ mongoose.connect(process.env.MONGO_URI || "mongodb://127.0.0.1:27017/blog-app")
     .then(()=> console.log("Mongo Connected"))
     .catch((err) => console.log(`Error Connecting with Mongo db ${err}`));
 
-app.listen(process.env.PORT || 3000, () => {
-    console.log(`Server running on port  http://localhost:${process.env.PORT}`);
+app.listen(3000, () => {
+    console.log(`Server running on port  http://localhost:3000`);
 })
